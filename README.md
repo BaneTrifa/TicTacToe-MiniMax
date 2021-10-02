@@ -1,6 +1,6 @@
-			---------------------
-			Tic Tac Toe - MiniMax
-			---------------------
+									---------------------
+									Tic Tac Toe - MiniMax
+									---------------------
 
 - TicTacToe napravljen pomocu MiniMax algoritma koji nam omogucava da kompijuter 
 kada je na potezu odigra realno i najoptimalnije resenje
