@@ -227,7 +227,7 @@ int NajboljiPotez() {
 }
 int MiniMax(bool isMaximizing) {
     //da li je kraj igre, BASE CASE
-    if(ProveriPobednika() == 1 ) return -100; // vracamo -100 kada je pobednik iks(X) igrac
+    if(ProveriPobednika() == 1 ) return -100; // vracamo -100 kada je pobednik iks(X) igrac (moze i -10 i -1 ali onda i u sledecem redu mora isto toliko u plusu)
     if(ProveriPobednika() == 2 ) return 100; //vracamo 100 kada je pobednik oks(O) igrac,
     if(ProveriNereseno()) return 0; //vracamo 0 ako je nereseno
 
