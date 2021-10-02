@@ -14,3 +14,7 @@ kada je na potezu odigra realno i najoptimalnije resenje
 -Rezultat se belezi i ispisuje posle svake odigrane partije
 
 -Kompijuter je uvek oks (O) igrac
+
+- VIZUELNI PRIKAZ MINIMAX ALGORITMA
+
+![minimax](https://user-images.githubusercontent.com/88882867/135732007-e91aaa09-02ea-4761-8fd8-eb81c12fa77b.png)
