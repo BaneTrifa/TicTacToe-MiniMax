@@ -1,20 +1,33 @@
-							  ---------------------
-							  Tic Tac Toe - MiniMax
-							  ---------------------
+# Tic Tac Toe - MiniMax
+							  
+## Description 
 
-- TicTacToe napravljen pomocu MiniMax algoritma koji nam omogucava da computerijuter 
-kada je na potezu odigra realno i najoptimalnije resenje
+TicTacToe created using the MiniMax algorithm, which allows the computer player to play a realistic and optimal solution when it's his turn.
 
-- Igricu mozete igrati u dva moda:
-   1. mod u kom igaju dva igrača jedan protiv drugog
-   2. mod u kom igrač igra protiv computerijutera
+## Running
 
-- Kada izaberete mod ne mozete da ga menjate vec samo mozete igarti u tom modu
+To run the program, follow these commands:
 
-- Rezultat se belezi i ispisuje posle svake odigrane partije
+  1. Open the terminal in the where src files are.
+  2. Run command: g++ TicTacToe.cpp heleperFunctions.cpp heleperFunctions.h -o main
+  3. Run: main.exe
 
-- computerijuter je uvek oks (O) player
+## Functionalities
+* You can play the game in two modes:
+   1. mode in which two players compete against each other
+   2. mode in which the player plays against the computer (AI)
 
-- VIZUELNI PRIKAZ MINIMAX ALGORITMA
+* Once you choose a mode, you cannot change it, you can only play in that mode
+
+* The result is recorded and printed after each game played
+
+* The computer player is always oks (O) player
+ 
+
+## Visual representation of the Minimax algorithm
 
 ![minimax](https://user-images.githubusercontent.com/88882867/135732007-e91aaa09-02ea-4761-8fd8-eb81c12fa77b.png)
+
+## Author
+
+- [@BrankoTrifkovic](https://www.linkedin.com/in/branko-trifkovic/)
